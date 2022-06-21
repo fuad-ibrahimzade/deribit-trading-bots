@@ -2,7 +2,7 @@ pandas==0.23.0
 pandas-datareader==0.6.0
 jsonschema==2.6.0
 simplejson==3.16.0
-numpy==1.14.3
+numpy==1.22.0
 numpydoc==0.8.0
 deribit-api==1.1.1
 Werkzeug==0.14.1
