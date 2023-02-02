@@ -5,5 +5,5 @@ simplejson==3.16.0
 numpy==1.14.3
 numpydoc==0.8.0
 deribit-api==1.1.1
-Werkzeug==0.14.1
+Werkzeug==0.15.5
 schedule==0.5.0
